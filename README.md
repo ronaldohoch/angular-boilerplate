@@ -1,2 +1,1 @@
-# angular-boilerplate
-Angular2+
+![angular](https://socialify.git.ci/angular/angular/image?description=1&font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)
